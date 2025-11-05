@@ -1,51 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fake Influencer Detector 🤖📱🏋️‍♀️
+> Este projeto foi desenvolvido como parte do Bootcamp da DIO sobre IAs Generativas em parceria com a AWS.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A proposta desse projeto é explorar o fenômeno dos "influencers falsos" que serão gerados por Inteligência Artificial.  
+Inspirado na tendência **“Natty or Not?”** (Natural ou não), a ideia é mostrar como as IAs generativas conseguem criar perfis extremamente realistas de influenciadores, por exemplo, do mundo de fitness.
+
+Inclusive, essa é uma situação que acontece muito nos dias atuais e gera a reflexão de até que ponto conseguimos distinguir o que é natural e o que é sintético.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (GPT-5)** → geração de texto (legenda e perfil)
+
+- **Sora** → criação da imagem do “influencer”
+
+- **Canva** → montagem visual final (post estilo Instagram)
+
+- **GitHub** → hospedagem e documentação do projeto
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Geração da imagem:** usei o Sora para criar uma imagem hiper-realista de um “influencer fitness”, com instruções detalhadas sobre aparência, iluminação e estilo de foto de academia.
+2. **Criação da biografia:** pedi ao ChatGPT para gerar uma bio curta e convincente para o perfil, com frases típicas de influenciadores (“grind never stops”, emojis e hashtags motivacionais).
+3. **Edição final:** montei a imagem e o texto em um post visual no Canva, simulando uma publicação real de rede social.  
+4. **Reflexão:** finalizei com uma comparação entre o conteúdo gerado e o comportamento real de perfis humanos, destacando a sutileza das diferenças.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Por se tratar de um projeto simples e de curta duração (proposta do Bootcamp), o resultado foi um perfil visualmente convincente, com texto e estética típicos de um influencer fitness.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+As montagens feitas no Canva não ficaram idênticas a um perfil real do Instagram por limitações de edição de imagem, mas cumprem bem o papel de simular uma persona digital criada por IA em poucos minutos.
 
-### Exemplos e Insigths
+<img src="images/influencer_IA_profile.png" width="25%"/><img src="images/influencer_IA_post.png" width="25%"/>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Mesmo analisando de perto a foto, é difícil notar que se trata de algo artificial, ainda mais se levarmos em conta que é comum o uso de editores de imagem como o Photoshop.  
+<img src="images/Influencer_2.png" width="40%"/>
 
-## Links Interessantes
+O projeto ilustra o poder (e o risco) das IAs generativas na criação de identidades digitais.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 💭 Reflexão
+O desafio aborda mais a questão **ética** que envolve as inteligências artificiais do que aspectos **técnicos**.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Inclusive, para realizar esse projeto, utilizei a IA para me fornecer ideias que eu pudesse desenvolver. Apesar de ter feito o refinamento da ideia e várias etapas (edições, análises, filtragem de ideias), o uso da IA me ajudou fornecendo orientação inicial e reduzindo o tempo necessário para a realização do projeto.
+
+Este projeto é um lembrete de que a autenticidade continua sendo um dos diferenciais mais humano que existem.
